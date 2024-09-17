@@ -34,4 +34,18 @@ This is a link to [my portfolio](https://github.com/Audreycmk).
 
 This is an image:
 
-![Goose](Goose.jpg)
+![Pig](Pig.jpg)
+
+## Code
+
+We can put inline code by using a tic. (`) next to 1
+
+To add an image use an `<img>` tag.
+
+You can add multi-line code by using three tics and the name of the coding lanuage:
+
+```javascript
+function test() {
+  console.log("test");
+}
+```
