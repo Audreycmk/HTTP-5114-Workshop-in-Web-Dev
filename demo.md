@@ -49,3 +49,11 @@ function test() {
   console.log("test");
 }
 ```
+
+## Tables
+
+| Lanuage    | Rating |
+| ---------- | ------ |
+| HTML       | 5      |
+| JavaScript | 7      |
+| CSS        | 9      |
