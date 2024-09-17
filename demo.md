@@ -28,4 +28,10 @@ This is an unordered list:
 
 ## Links
 
-This is a link to [my portflio](https://github.com/Audreycmk).
+This is a link to [my portfolio](https://github.com/Audreycmk).
+
+## Images
+
+This is an image:
+
+![Goose](Goose.jpg)
